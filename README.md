@@ -32,7 +32,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-S29&hide=ruby,shell&layout=compact&theme=dark)](https://github.com/LeoS29-Work?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-S29&hide=ruby,shell&layout=compact&theme=dark)](https://github.com/Leandro-S29?tab=repositories)
 
 ##
 
