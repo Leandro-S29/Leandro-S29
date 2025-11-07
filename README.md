@@ -1,12 +1,11 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## Hello, Devs!! 👋
-### My name is Leandro, welcome to my GitHub profile. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+## Hello!! 👋
+### My name is Leandro, welcome to my GitHub profile.
 
-- 🏠  I'm from Lisbon, Portugal
+- 🏠  I'm from Portugal
 - 💻 Passionate about Technology
-- 🧠 Software Development Student at IPS.
-- 🏦 I currently work as an Intern at CGI.
+- 🧠 Computer Engineering
 
 ##
 
